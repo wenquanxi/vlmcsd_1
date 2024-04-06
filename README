@@ -12,3 +12,7 @@ man man/vlmcsd.7
 
 If you don't have man, you may also use the .txt, .html and .pdf files
 in the man directory
+
+the following two urls are added by Quan Wen on Apr 5, 2024
+Running KMS on Ubuntu Server (https://code.berrydejager.com/KMS-on-Ubuntu-Server)
+Setup your own KMS server (https://zguishen.com/posts/8083e521.html)
